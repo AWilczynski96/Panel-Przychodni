@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOsoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba xsi:type="Lekarz">
+    <Imię>Jan</Imię>
+    <Nazwisko>Kowal</Nazwisko>
+    <Pesel>77072256747</Pesel>
+    <Plec>Mężczyzna</Plec>
+    <Wiek1>42</Wiek1>
+    <Urodziny>1977-07-22T00:00:00</Urodziny>
+    <listaTerminow />
+  </Osoba>
+  <Osoba xsi:type="Pacjent">
+    <Imię>Antoś</Imię>
+    <Nazwisko>Robal</Nazwisko>
+    <Pesel>72112344897</Pesel>
+    <Plec>Mężczyzna</Plec>
+    <Wiek1>47</Wiek1>
+    <Urodziny>1972-11-23T00:00:00</Urodziny>
+    <listaTerminow />
+  </Osoba>
+  <Osoba xsi:type="Lekarz">
+    <Imię>Jan</Imię>
+    <Nazwisko>Kowal</Nazwisko>
+    <Pesel>77072256747</Pesel>
+    <Plec>Mężczyzna</Plec>
+    <Wiek1>42</Wiek1>
+    <Urodziny>1977-07-22T00:00:00</Urodziny>
+    <listaTerminow />
+  </Osoba>
+  <Osoba xsi:type="Pacjent">
+    <Imię>Antoś</Imię>
+    <Nazwisko>Robal</Nazwisko>
+    <Pesel>72112344897</Pesel>
+    <Plec>Mężczyzna</Plec>
+    <Wiek1>47</Wiek1>
+    <Urodziny>1972-11-23T00:00:00</Urodziny>
+    <listaTerminow />
+  </Osoba>
+  <Osoba xsi:type="Lekarz">
+    <Imię>Jan</Imię>
+    <Nazwisko>Kowal</Nazwisko>
+    <Pesel>77072256747</Pesel>
+    <Plec>Mężczyzna</Plec>
+    <Wiek1>42</Wiek1>
+    <Urodziny>1977-07-22T00:00:00</Urodziny>
+    <listaTerminow />
+  </Osoba>
+  <Osoba xsi:type="Pacjent">
+    <Imię>Antoś</Imię>
+    <Nazwisko>Robal</Nazwisko>
+    <Pesel>72112344897</Pesel>
+    <Plec>Mężczyzna</Plec>
+    <Wiek1>47</Wiek1>
+    <Urodziny>1972-11-23T00:00:00</Urodziny>
+    <listaTerminow />
+  </Osoba>
+  <Osoba xsi:type="Lekarz">
+    <Imię>krzyś</Imię>
+    <Pesel>12321312323</Pesel>
+    <Plec>Kobieta</Plec>
+    <Wiek1>0</Wiek1>
+    <Urodziny>0001-01-01T00:00:00</Urodziny>
+  </Osoba>
+  <Osoba xsi:type="Pacjent">
+    <Imię>krzyś</Imię>
+    <Pesel>12321312323</Pesel>
+    <Plec>Kobieta</Plec>
+    <Wiek1>0</Wiek1>
+    <Urodziny>0001-01-01T00:00:00</Urodziny>
+  </Osoba>
+</ArrayOfOsoba>

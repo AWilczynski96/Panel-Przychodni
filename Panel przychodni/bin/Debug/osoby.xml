@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOsoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba xsi:type="Lekarz">
+    <Imię>Aleksander</Imię>
+    <Nazwisko>Wilczyński</Nazwisko>
+    <Pesel>96031602696</Pesel>
+    <Plec>Mężczyzna</Plec>
+    <Wiek1>23</Wiek1>
+    <Urodziny>1996-03-16T00:00:00</Urodziny>
+    <listaTerminów />
+  </Osoba>
+  <Osoba xsi:type="Pacjent">
+    <Imię>Rafał</Imię>
+    <Nazwisko>Waszak</Nazwisko>
+    <Pesel>98042788888</Pesel>
+    <Plec>Mężczyzna</Plec>
+    <Wiek1>21</Wiek1>
+    <Urodziny>1998-04-27T00:00:00</Urodziny>
+    <listaTerminow />
+  </Osoba>
+  <Osoba xsi:type="Pacjent">
+    <Imię>Jadwiga</Imię>
+    <Nazwisko>Klops</Nazwisko>
+    <Pesel>69011366666</Pesel>
+    <Plec>Kobieta</Plec>
+    <Wiek1>50</Wiek1>
+    <Urodziny>1969-01-13T00:00:00</Urodziny>
+    <listaTerminow />
+  </Osoba>
+</ArrayOfOsoba>
